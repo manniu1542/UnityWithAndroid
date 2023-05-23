@@ -29,7 +29,6 @@ public class Test {
 
     public   String GetName()
     {
-
         Log.d(LOG,"GetLog"+this.name);
         return  this.name ;
     }

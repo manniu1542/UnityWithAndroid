@@ -5,34 +5,28 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc7f30ee-5066-41aa-b23f-7c90e1121250" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testunity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testunity/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testunity/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testunity/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testunity/src/androidTest/java/com/example/testunity/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testunity/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testunity/src/main/java/com/example/testunity/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testunity/src/test/java/com/example/testunity/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CreateAndorid/.vs/CreateAndorid/FileContentIndex/e08ba576-9320-4cb2-adc2-8667b5ae2561.vsidx" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ttt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CreateAndorid/.vs/CreateAndorid/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../CreateAndorid/.vs/CreateAndorid/v17/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CreateAndorid/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../CreateAndorid/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CreateAndorid/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CreateAndorid/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CreateAndorid/Assets/TestScrpt.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CreateAndorid/Assets/TestScrpt.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CreateAndorid/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../CreateAndorid/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apk/02CallJava.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../apk/02CallJava.apk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[emulator-5554]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Administrator\.android\avd\Pixel_3a_API_33_x86_64.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -57,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ttt" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
