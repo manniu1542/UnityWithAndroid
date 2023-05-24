@@ -16,6 +16,7 @@ public class TestCallJava : MonoBehaviour
 
     public Text txtLog;
     public Text txtName;
+    public Text txtYYY;
     // Start is called before the first frame update
     AndroidJavaClass classTest;
     AndroidJavaObject javaTest;
@@ -63,6 +64,11 @@ public class TestCallJava : MonoBehaviour
     public void GetName()
     {
         txtName.text = javaTest.Call<string>("GetName");
+    }
+    public void HHH(string tt)
+    {
+        txtYYY.text = tt;
+
     }
 
 }
